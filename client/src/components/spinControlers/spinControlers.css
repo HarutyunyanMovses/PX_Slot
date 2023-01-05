@@ -1,0 +1,9 @@
+.spinControlersMain {
+    width: 79%;
+    height: 18%;
+    display: flex;
+    align-items: center;
+    border: 4px solid #17b2d1;
+    border-radius: 2vh;
+    justify-content: space-around;
+}

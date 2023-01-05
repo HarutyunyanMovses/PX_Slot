@@ -1,0 +1,13 @@
+.spinButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 18vh;
+    height: 10vh;
+    border-radius: 1.5vh;
+    font-size: 4.5vh;
+    background-color: #008568;
+    color: whitesmoke;
+    cursor: pointer;
+}

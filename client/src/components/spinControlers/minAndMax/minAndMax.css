@@ -1,0 +1,11 @@
+.sumMax,.sumMin{
+    background-color: #008568;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9vh;
+    height: 6.5vh;
+    border-radius: 1vh;
+    cursor: pointer;
+    color: whitesmoke;
+}

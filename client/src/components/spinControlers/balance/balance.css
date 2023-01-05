@@ -1,0 +1,27 @@
+.balanceMain {
+    width: 23vh;
+    height: 14vh;
+    display: flex;
+    flex-direction: column;
+    color: whitesmoke;
+    background-color: #008568;
+    border-radius: 1vh;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.balanceMain>p{
+    font-size: 4vh;
+    font-weight: bold;
+}
+
+.balance{
+    width: 92%;
+    height: 64%;
+    display: flex;
+    flex-direction: column;
+    font-size: 4vh;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid whitesmoke;
+}
